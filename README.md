@@ -247,3 +247,6 @@ go test ./internal/tests -tags=integration
 - Horizontal worker scaling benchmarks
 - OpenTelemetry tracing
 - Admin review workflow for flagged transfers
+
+## License
+This project is licensed under the [MIT License](LICENSE)
